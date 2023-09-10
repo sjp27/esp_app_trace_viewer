@@ -22,6 +22,7 @@ View application trace from ESP32S3 using ftdi JTAG adapter, trace data will be 
 	esp_app_trace_viewer interface/ftdi/esp32_devkitj_v1.cfg target/esp32s3.cfg trace.txt
 
 # AUTHORS
-
 sjp27 &lt; https://github.com/sjp27 &gt;
 implemented esp_app_trace_viewer.
+
+ESP32 is a trademark of Espressif Systems (Shanghai) Co., Ltd.
