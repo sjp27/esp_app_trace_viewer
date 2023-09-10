@@ -13,6 +13,8 @@ is a utility for viewing ESP32 application tracing using OpenOCD for the ESP32.
 
 The example batch and bash script files set up the viewer for ESP32S3 using an ftdi JTAG adapter.
 
+When viewing 'r' enter will reset target, 'x' enter will exit viewer.
+
 # EXAMPLES
 
 View application trace from ESP32S3 using ftdi JTAG adapter, trace data will be written to trace.txt:
